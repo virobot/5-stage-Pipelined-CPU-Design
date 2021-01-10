@@ -1,6 +1,6 @@
 
 
-module cardinal_processor(
+module cpu_design(
 		input clk,             			// System Clock
 		input reset,           			// System Reset
 		input [0:31] instruction,		// Instruction from Instruction Memory
